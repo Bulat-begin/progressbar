@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Roboto';
+}
+
+.title {
+    font-size: 36px;
+}
+
+.text {
+    font-size: 22px;
+    margin-bottom: 100px;
+}
+
+
+.progress-bar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 4px;
+    width: 0%;
+    background: red;
+}
